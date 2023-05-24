@@ -4,3 +4,5 @@ This study aimed to analyze the match between university curriculum and job post
 
 About the datasets:
 The data used in this research project are University programs and job postings across Europe. Data availability was challenging as datasets were not pre-made and easily available. Created the university programs dataset from the official websites of the top 10 European universities. Retrieved their program information and the corresponding courses for each program. Created the Europe Remote job postings dataset by web crawling tool -  Octoparse. The datasets contain categorical data.
+
+Tableau Storyboard: https://public.tableau.com/views/CapstoneProject_16824800673580/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
